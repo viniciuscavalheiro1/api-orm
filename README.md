@@ -13,3 +13,24 @@ npm install
 ```
 npm run dev
 ```
+### Diagrama de entidades
+![Diagrama de entidades](DER.png)
+
+
+### Comandos para lembrar
+
+npx sequelize-cli init
+
+
+
+
+
+
+
+
+
+
+
+
+
+
